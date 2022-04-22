@@ -1,0 +1,11 @@
+D:\!PI-224\ProjectDatabaseByCode\ProjectDatabaseByCode\bin\Debug\ProjectDatabaseByCode.exe.config
+D:\!PI-224\ProjectDatabaseByCode\ProjectDatabaseByCode\bin\Debug\ProjectDatabaseByCode.exe
+D:\!PI-224\ProjectDatabaseByCode\ProjectDatabaseByCode\bin\Debug\ProjectDatabaseByCode.pdb
+D:\!PI-224\ProjectDatabaseByCode\ProjectDatabaseByCode\obj\Debug\ProjectDatabaseByCode.csprojAssemblyReference.cache
+D:\!PI-224\ProjectDatabaseByCode\ProjectDatabaseByCode\obj\Debug\ProjectDatabaseByCode.Form1.resources
+D:\!PI-224\ProjectDatabaseByCode\ProjectDatabaseByCode\obj\Debug\ProjectDatabaseByCode.Properties.Resources.resources
+D:\!PI-224\ProjectDatabaseByCode\ProjectDatabaseByCode\obj\Debug\ProjectDatabaseByCode.csproj.GenerateResource.cache
+D:\!PI-224\ProjectDatabaseByCode\ProjectDatabaseByCode\obj\Debug\ProjectDatabaseByCode.csproj.CoreCompileInputs.cache
+D:\!PI-224\ProjectDatabaseByCode\ProjectDatabaseByCode\obj\Debug\ProjectDatabaseByCode.exe
+D:\!PI-224\ProjectDatabaseByCode\ProjectDatabaseByCode\obj\Debug\ProjectDatabaseByCode.pdb
+D:\!PI-224\ProjectDatabaseByCode\ProjectDatabaseByCode\obj\Debug\ProjectDatabaseByCode.FormEditGroups.resources
